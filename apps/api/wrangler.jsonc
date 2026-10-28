@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "api",
+  "name": "api-simpletodolist",
   "main": "src/index.ts",
   "compatibility_date": "2026-10-24",
   "d1_databases": [
